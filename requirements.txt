@@ -1,0 +1,11 @@
+psaw==0.1.0
+datetime==2.8.2
+pandas==1.4.2                                  
+matplotlib.pyplot==3.5.1
+yfinance==0.1.85                
+nltk==3.7
+statsmodels==0.13.2
+textwrap==3.4
+numpy==1.21.5
+
+
