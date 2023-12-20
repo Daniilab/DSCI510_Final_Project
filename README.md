@@ -1,11 +1,13 @@
-# DSCI510_Final_Project Title and Description
+# Reddit’s Impact on Stock Prices
 
-Important Note: I talked with Yuzhong about this already, but the Pushshift API stopped working as of yesterday. Hopefully it will be back up soon. Consequently, I was unable to run the code and grab the outputs and had to make do with what I already had. I included outputs from HW 4 which is fully up to date with my final project, as well as some screenshots. Please let me know if you need further clarification. 
+##  Research question: How does the number of Reddit posts on “r/wallstreetbets” regarding GameStop’s stock impact its stock price, if at all?
+
+**Important Note: The Pushshift API stopped working towards the end of this project. Consequently, I was unable to run the code and grab the outputs and had to make do with what I already had. I included outputs from HW 4 which is fully up to date with my final project, as well as some screenshots. Please let me know if you need further clarification. **
 
 
 Github repository: https://github.com/Daniilab/DSCI510_Final_Project.git 
 
-Title: Reddit’s Impact on Stock Prices; Research question: How does the number of Reddit posts on “r/wallstreetbets” regarding GameStop’s stock impact its stock price, if at all?
+
 
 Description: During the beginning of 2021, GameStop saw an incredible spike in its stock price, and many accredited this spike to the activity on the subreddit ‘r/wallstreetbets.’ There was an explosion of posts encouraging others to buy the stock in order to inflate its stock price. I would like to examine if the hypothesis that Reddit activity is correlated to stock prices is true. To do this, I will examine the daily Reddit activity regarding GameStop on r/wallstreetbets from January to February 2021 and see if there is a correlation to GameStop’s stock price during the same time frame via a linear regression analysis. 
 
